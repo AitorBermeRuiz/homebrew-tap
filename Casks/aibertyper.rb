@@ -1,6 +1,6 @@
 cask "aibertyper" do
-  version "0.3.0"
-  sha256 "dd2b1533c67b1de3c5420a4fe8ec51e31a10c4a080950af8ab710bf4c8866f38"
+  version "0.4.2"
+  sha256 "3837efb71ad98cb27ac6496d2f577d22b909fe0d77810d08151498ac7795a9dd"
 
   url "https://github.com/AitorBermeRuiz/AitorTyper/releases/download/v#{version}/AiberTyper-#{version}.zip"
   name "AiberTyper"
